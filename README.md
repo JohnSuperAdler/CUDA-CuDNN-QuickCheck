@@ -1,4 +1,4 @@
-# tiny CUDA CuDNN check
+# CUDA CuDNN QuickCheck
 透過執行MNIST手寫數字辨識的機器學習簡單測試 CUDA 和 CuDNN 有沒有安裝成功、能不能正常運作的簡短 script。
 
 ## 使用方法
